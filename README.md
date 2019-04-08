@@ -26,7 +26,7 @@ The given dataset has 4 classes. Labels for training data are provided. It is a 
 	  |
 	  |_/Pyhton_problem
 	  |
-	  |_/(CV/NLP)_Problem
+	  |_/CV_Problem
 
 ● Code of each problem is in a Jupyter Notebook.
 
