@@ -40,10 +40,10 @@ The given dataset has 4 classes. Labels for training data are provided. It is a 
 	    ● One has to include hidden.py file containing keys for authentication
 		    template:-
 			  def oauth():
-    		  return {"consumer_key": "......",
-           				"consumer_secret": ".....",
-           				"token_key": "......",
-			            "token_secret": "....."}
+				  return {"consumer_key": "......",
+					  "consumer_secret": ".....",
+					  "token_key": "......",
+					  "token_secret": "....."}
 
 
 ● For CV problem -- 
@@ -52,4 +52,4 @@ The given dataset has 4 classes. Labels for training data are provided. It is a 
 ## Acknowledgements
 
 ● Jemremy Howard ( His fastai courses and practical learning motivation helped me a lot )
-● Dr. Chuck Severence
+● Dr. Chuck Severance
